@@ -1,0 +1,40 @@
+{
+	"groups": [
+		{
+			"keys": "bg_png,refresh_png,button_png,closebtn_png,share_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/demo/bg.png",
+			"type": "image",
+			"name": "bg_png"
+		},
+		{
+			"name": "refresh_png",
+			"type": "image",
+			"url": "assets/demo/refresh.png"
+		},
+		{
+			"name": "button_png",
+			"type": "image",
+			"url": "assets/demo/button.png"
+		},
+		{
+			"name": "closebtn_png",
+			"type": "image",
+			"url": "assets/demo/closebtn.png"
+		},
+		{
+			"name": "share_png",
+			"type": "image",
+			"url": "assets/demo/share.png"
+		}
+	]
+}

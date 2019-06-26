@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ResultSkin" width="400" height="500" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Rect width="400" height="500" x="0" y="0" anchorOffsetX="0" anchorOffsetY="0" fillColor="0xffffff"/>
+	<e:Image id="closeBtn" source="closebtn_png" x="340" y="0"/>
+	<e:Image id="sharebtn" source="share_png" x="151" y="392"/>
+	<e:Label id="scoreTxt" text="您的分数\n100" x="0" y="169" textColor="0x4aed09" width="400" textAlign="center"/>
+</e:Skin>
